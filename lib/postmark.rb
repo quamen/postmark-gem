@@ -1,3 +1,5 @@
+require "postmark/version"
+
 def require_local(file)
   require File.join(File.dirname(__FILE__), 'postmark', file)
 end
