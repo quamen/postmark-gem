@@ -1,4 +1,7 @@
+# encoding: utf-8
+
 require 'json'
+
 module Postmark
   module ResponseParsers
     module Json

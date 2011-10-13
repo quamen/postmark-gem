@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 # assume activesupport is already loaded
 module Postmark
   module ResponseParsers

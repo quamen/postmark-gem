@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 require "postmark/version"
 
 def require_local(file)

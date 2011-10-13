@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 ##
 # author: http://fernandoguillen.info
 # date: 2008-08-27

@@ -1,5 +1,9 @@
+# encoding: utf-8
+
 require 'yajl'
+
 Yajl::Encoder.enable_json_gem_compatability
+
 module Postmark
   module ResponseParsers
     module Yajl
