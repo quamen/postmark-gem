@@ -25,7 +25,7 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   # specify any dependencies here; for example:
-  s.add_development_dependency "activesupport"
+  s.add_development_dependency "activesupport", '< 3.1'
   s.add_development_dependency "fakeweb"
   s.add_development_dependency "fakeweb-matcher"
   s.add_development_dependency "rake"
